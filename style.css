@@ -18,7 +18,7 @@ body{
     }
 
 .menu a{
-        margin-left:40px;
+        margin-left:30px;
 }
 .header-color{
     background-color: #FFFBF0;
@@ -28,13 +28,10 @@ body{
 }
 .top-img img{
    
-    width: 300px;
-        
+    width: 300px;       
     
 }
-.radious{
-    border-radius: 20px;
-}
+
 .mid-write h1{
     line-height: 54px;
 }
@@ -60,7 +57,7 @@ body{
     height: 300px;
     width: 300px;
     margin: auto;
-    border-radius: 25px;
+    border-radius: 20px;
     margin-top: 20px;
     background-color: #F1F1F1;
 }
@@ -96,4 +93,7 @@ border-radius: 10px;
     
     border-radius: 10px;
 
+}
+.radious{
+    border-radius: 20px !important;
 }

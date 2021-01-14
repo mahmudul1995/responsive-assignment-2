@@ -4,5 +4,8 @@
         "titleBar.activeBackground": "#23490F",
         "titleBar.activeForeground": "#F5FCF2"
     },
-    "liveServer.settings.port": 5502
+    "liveServer.settings.port": 5502,
+    "cSpell.words": [
+        "radious"
+    ]
 }
