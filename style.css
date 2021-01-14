@@ -12,13 +12,13 @@ body{
 }
 .menu {
     
-    margin-left: 325px;
+    margin-left: 300px;
     font-weight: 700;
     color: black;
     }
 
 .menu a{
-        margin-left:30px;
+        margin-left:20px;
 }
 .header-color{
     background-color: #FFFBF0;
